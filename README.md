@@ -1,2 +1,2 @@
-# workshopdemo
-This is a demonstration repository for SciBeh members to use if presenting the Wiki process to others.
+# Public Engagement Workshop
+This is a repository to start collect resources teaching researchers how to handle public engagement in different spaces.
