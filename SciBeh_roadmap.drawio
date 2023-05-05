@@ -1,11 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T15:03:10.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="QZI8yWTUXKPoQGkvUmS3" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T15:30:13.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="CipQiHmWdAET-aiAkVBx" version="21.2.9" type="github">
   <diagram name="Page-1" id="txcq8qw62wM2o02GTHZs">
-    <mxGraphModel dx="928" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1324" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0I5INEBMqLeMEQEJwhEx-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="220" width="30" height="60" as="geometry" />
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-14" value="SCIBEH" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="240" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-15" target="6x0dXdKXaHFzpYJiuWAb-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-15" value="Students" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-17" value="&lt;ul&gt;&lt;li&gt;Seeking internships /Research experience&lt;/li&gt;&lt;li&gt;Learn a skill&lt;/li&gt;&lt;li&gt;Meet other students&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="230" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-18" target="6x0dXdKXaHFzpYJiuWAb-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="255" y="210" />
+              <mxPoint x="414" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-18" value="Junior researchers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-19" target="6x0dXdKXaHFzpYJiuWAb-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-19" value="Senior researchers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-22" value="&lt;ul&gt;&lt;li&gt;Contribute to new research projects&lt;/li&gt;&lt;li&gt;Lead research projects&lt;/li&gt;&lt;li&gt;Mentorship from senior researchers&lt;br&gt;&lt;/li&gt;&lt;li&gt;Get help from research interns&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="85" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-24" value="&lt;h1&gt;Value proposition for volunteers/members&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Networking&lt;/li&gt;&lt;li&gt;Social incentives&lt;/li&gt;&lt;li&gt;Access to collective knowledge&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-26" value="&lt;br&gt;&lt;ul&gt;&lt;li&gt;Pool resources &amp;amp; contribution commitments&lt;br&gt;&lt;/li&gt;&lt;li&gt;Mentor junior researchers&lt;/li&gt;&lt;li&gt;Turn new ideas into reality with support from the collective&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="42.5" width="210" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-27" target="6x0dXdKXaHFzpYJiuWAb-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="270" />
+              <mxPoint x="670" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-27" value="Policy makers, practitioners" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-29" value="&lt;ul&gt;&lt;li&gt;Access rapid expert consensus&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="210" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-30" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
