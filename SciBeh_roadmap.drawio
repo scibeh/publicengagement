@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T16:18:17.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="RpYzgxCyLYkp27sPdoqZ" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T16:29:49.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="LL6Xhrx9G80z-KN68QZV" version="21.2.9" type="github">
   <diagram name="Page-1" id="txcq8qw62wM2o02GTHZs">
     <mxGraphModel dx="1324" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-14" value="SCIBEH COORDINATION TEAM (manages connections, maintains activity channels, leads SciBeh-relevant projects)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-91" value="Undertake policy fellowships?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-14" target="6x0dXdKXaHFzpYJiuWAb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-14" value="SCIBEH COORDINATION TEAM (manages connections, maintains activity channels, leads SciBeh-relevant projects)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="314" y="240" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-15" target="6x0dXdKXaHFzpYJiuWAb-14">
@@ -17,8 +20,8 @@
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-15" value="Students" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-17" value="&lt;ul&gt;&lt;li&gt;Seeking internships /Research experience&lt;/li&gt;&lt;li&gt;Learn a skill&lt;/li&gt;&lt;li&gt;Meet other students&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="230" width="190" height="90" as="geometry" />
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-17" value="&lt;ul&gt;&lt;li&gt;Seeking internships /Research experience - access to researchers all over the world!&lt;br&gt;&lt;/li&gt;&lt;li&gt;Learn a skill&lt;/li&gt;&lt;li&gt;Meet other students&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="220" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-18" target="6x0dXdKXaHFzpYJiuWAb-14">
           <mxGeometry relative="1" as="geometry">
@@ -42,11 +45,11 @@
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-19" value="Senior researchers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="70" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-22" value="&lt;ul&gt;&lt;li&gt;Contribute to new research projects&lt;/li&gt;&lt;li&gt;Lead research projects&lt;/li&gt;&lt;li&gt;Mentorship from senior researchers&lt;br&gt;&lt;/li&gt;&lt;li&gt;Get help from research interns&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-22" value="&lt;ul&gt;&lt;li&gt;Join new research projects&lt;br&gt;&lt;/li&gt;&lt;li&gt;Lead research projects&lt;/li&gt;&lt;li&gt;Mentorship from senior researchers&lt;br&gt;&lt;/li&gt;&lt;li&gt;Get help from research interns&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="85" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-24" value="&lt;h1&gt;Value proposition for volunteers/members&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Networking&lt;/li&gt;&lt;li&gt;Social incentives&lt;/li&gt;&lt;li&gt;Access to collective knowledge&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="290" height="140" as="geometry" />
+          <mxGeometry x="10" y="10" width="290" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-26" value="&lt;br&gt;&lt;ul&gt;&lt;li&gt;Pool resources &amp;amp; contribution commitments&lt;br&gt;&lt;/li&gt;&lt;li&gt;Mentor junior researchers&lt;/li&gt;&lt;li&gt;Turn new ideas into reality with support from the collective&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="42.5" width="210" height="75" as="geometry" />
@@ -59,27 +62,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-27" target="6x0dXdKXaHFzpYJiuWAb-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="775" y="390" />
+              <mxPoint x="420" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-27" value="Policy makers, practitioners" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-29" target="6x0dXdKXaHFzpYJiuWAb-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-29" target="6x0dXdKXaHFzpYJiuWAb-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-27" target="6x0dXdKXaHFzpYJiuWAb-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="775" y="390" />
+              <mxPoint x="740" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-29" value="&lt;ul&gt;&lt;li&gt;Access rapid expert consensus&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="210" width="210" height="75" as="geometry" />
+          <mxGeometry x="600" y="210" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-31" value="&lt;h1&gt;Activities - or &quot;connection points&quot;?&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="360" width="560" height="40" as="geometry" />
+          <mxGeometry x="20" y="360" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-40" value="contact@scibeh.org" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-40" value="contact@scibeh.org" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="30" y="410" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-41" value="New volunteers/members who want to join" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-40">
@@ -88,7 +104,7 @@
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-42" value="Existing members who want to propose new ideas and seek support" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-40">
           <mxGeometry y="60" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-44" value="Newsletters" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-44" value="Newsletters" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="454" y="535" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-45" value="Updates to members" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-44">
@@ -100,7 +116,7 @@
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-47" value="*Members = loosely defined - people interested in SciBeh&#39;s work and want to have it on the radar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="10" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-48" value="Workshop" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-48" value="Workshop" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="650" y="415" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-49" value="Accelerator for bigger ideas that came up during the year" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-48">
@@ -109,7 +125,7 @@
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-50" value="Could be run as competition or top-down co-ordination team selected" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-48">
           <mxGeometry y="60" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-51" value="Forum (&quot;Reddit&quot;)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-51" value="Forum (&quot;Reddit&quot;)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-52" value="Ongoing discussions &amp;amp; scientific exchange" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-51">
@@ -141,7 +157,7 @@
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-57" value="Continuous" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="359" y="566" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-63" value="Co-ordination meeting" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-63" value="Co-ordination meeting" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="450" y="410" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-64" value="Coordination team to discuss strategic and logistical issues" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-63">
@@ -162,7 +178,7 @@
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-73" value="Process for idea acceleration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-74" value="ROTT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-74" value="ROTT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="850" y="380" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-75" value="&lt;div&gt;Support workshop discussions&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-74">
