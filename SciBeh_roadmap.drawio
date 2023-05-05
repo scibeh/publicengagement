@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T15:30:13.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="CipQiHmWdAET-aiAkVBx" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T16:18:17.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="RpYzgxCyLYkp27sPdoqZ" version="21.2.9" type="github">
   <diagram name="Page-1" id="txcq8qw62wM2o02GTHZs">
     <mxGraphModel dx="1324" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-14" value="SCIBEH" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-14" value="SCIBEH COORDINATION TEAM (manages connections, maintains activity channels, leads SciBeh-relevant projects)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="240" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-15" target="6x0dXdKXaHFzpYJiuWAb-14">
@@ -62,11 +62,138 @@
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-27" value="Policy makers, practitioners" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="210" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-29" target="6x0dXdKXaHFzpYJiuWAb-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-29" target="6x0dXdKXaHFzpYJiuWAb-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6x0dXdKXaHFzpYJiuWAb-29" value="&lt;ul&gt;&lt;li&gt;Access rapid expert consensus&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="210" width="210" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="6x0dXdKXaHFzpYJiuWAb-30" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-31" value="&lt;h1&gt;Activities - or &quot;connection points&quot;?&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6x0dXdKXaHFzpYJiuWAb-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-40" value="contact@scibeh.org" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="410" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-41" value="New volunteers/members who want to join" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-40">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-42" value="Existing members who want to propose new ideas and seek support" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-40">
+          <mxGeometry y="60" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-44" value="Newsletters" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="535" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-45" value="Updates to members" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-44">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-46" value="Connect members to new things going on, requests for support, opportunities" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-44">
+          <mxGeometry y="60" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-47" value="*Members = loosely defined - people interested in SciBeh&#39;s work and want to have it on the radar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-48" value="Workshop" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="415" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-49" value="Accelerator for bigger ideas that came up during the year" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-48">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-50" value="Could be run as competition or top-down co-ordination team selected" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-48">
+          <mxGeometry y="60" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-51" value="Forum (&quot;Reddit&quot;)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="410" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-52" value="Ongoing discussions &amp;amp; scientific exchange" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-51">
+          <mxGeometry y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-53" value="Social chat and networking/ connections" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-51">
+          <mxGeometry y="60" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-58" value="Propose and join ideas by other members" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-51">
+          <mxGeometry y="90" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="6x0dXdKXaHFzpYJiuWAb-51" source="6x0dXdKXaHFzpYJiuWAb-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-110" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-59" value="SciBeh coordinators could contact members to propose support" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-51">
+          <mxGeometry y="120" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-54" value="Ad hoc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="141" y="510" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-55" value="Monthly" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="610" y="630" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-57" value="Continuous" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="359" y="566" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-63" value="Co-ordination meeting" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-64" value="Coordination team to discuss strategic and logistical issues" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-63">
+          <mxGeometry y="30" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-66" value="Bi-monthly" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="553" y="491" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-68" value="Idea proposed / identified" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-69" value="Meeting with idea proposer" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="680" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-70" value="Document path to output" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="680" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-73" value="Process for idea acceleration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-74" value="ROTT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="380" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-75" value="&lt;div&gt;Support workshop discussions&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-74">
+          <mxGeometry y="30" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-76" value="Organised to meet policy-maker/practitioner need where identified" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x0dXdKXaHFzpYJiuWAb-74">
+          <mxGeometry y="90" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-56" value="Yearly" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="755" y="530" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-79" value="Ad hoc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="946" y="517" width="90" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-82" value="&lt;div align=&quot;left&quot;&gt;1. Determine output&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. Scope tasks&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. Scope resources needed&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;4. Assess commitments required&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="770" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-84" value="&lt;ul&gt;&lt;li&gt;Through newsletter&lt;/li&gt;&lt;li&gt;Through direct outreach (e.g., based on coord. team knowledge)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="730" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-85" value="Connection with other members" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-87" value="&lt;div&gt;Goal is to have clear details:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Objective&lt;/li&gt;&lt;li&gt;Envisioned output&lt;/li&gt;&lt;li&gt;Roles and required commitment&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="770" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-88" value="Project management support" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="680" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6x0dXdKXaHFzpYJiuWAb-89" value="(Depending on idea proposer level of readiness to lead)&lt;br&gt;&lt;ul&gt;&lt;li&gt;Cat herding&lt;/li&gt;&lt;li&gt;Capacity-building workshops [if skills required for volunteers]&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="594" y="760" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
